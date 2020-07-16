@@ -53,10 +53,10 @@ public class MainActivity extends Activity {
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle item selection
         switch (item.getItemId()) {
-            case R.id.menu_myAccount:
-                intent.setClass(getApplicationContext(), ProfileActivity.class);
-                startActivity(intent);
-                return true;
+//            case R.id.menu_myAccount:
+//                intent.setClass(getApplicationContext(), ProfileActivity.class);
+//                startActivity(intent);
+//                return true;
             case R.id.menu_logout:
                 mDatabaseHelper.updateDataStudent(LOGIN_STUDENT_ID, LEVEL, LANG);
                 intent.setClass(getApplicationContext(), LoginActivity.class);

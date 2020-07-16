@@ -153,9 +153,6 @@ public class SignUpActivity extends Activity {
 //                    String _filePath = "/storage/emulated/0/Android/data/com.my.newproject2/TeacherImage";
 //                    /storage/emulated/0/Android/data/com.my.newproject2/files/DCIM/20200511_041437.jpg
                     image_file_path = _filePath;
-
-                    System.out.println("hihi lalala camera : " + _filePath);
-
                     profile_teacher_img.setImageBitmap(FileUtil.decodeSampleBitmapFromPath(_filePath, 200, 200));
 //                    sp.edit().putString("image_file_path_teacher", _filePath).commit();
 
@@ -176,10 +173,6 @@ public class SignUpActivity extends Activity {
                             _filePath.add(FileUtil.convertUriToFilePath(getApplicationContext(), _data.getData()));
                         }
                     }
-
-//                    /storage/emulated/0/Android/data/com.my.newproject2/files/DCIM/20200511_041437.jpg
-//                    /storage/emulated/0/DCIM/Camera/IMG_20200511_032026.jpg
-                    System.out.println("hihi lalala gallery : " + _filePath.get(0));
 
                     image_file_path = _filePath.get(0);
                     profile_teacher_img.setImageBitmap(FileUtil.decodeSampleBitmapFromPath(_filePath.get(0), 200, 200));

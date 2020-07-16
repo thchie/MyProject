@@ -121,7 +121,6 @@ id about_text
 id action_container
 id action_divider
 id action_image
-id action_notification1
 id action_text
 id actions
 id add_student_btn1
@@ -188,7 +187,6 @@ id login_text
 id malay_rb
 id menu_home
 id menu_logout
-id menu_myAccount
 id name_et
 id name_et1
 id name_et2

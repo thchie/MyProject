@@ -8,12 +8,12 @@
         "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-xxhdpi\\app_icon.png"
     },
     {
-        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
-    },
-    {
         "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_socks.png.flat",
         "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_socks.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_sister.png.flat",

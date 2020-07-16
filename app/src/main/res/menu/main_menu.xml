@@ -4,23 +4,29 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".activities.BaseActivity">
 
+<!--    <item-->
+<!--        android:id="@+id/action_notification1"-->
+<!--        android:icon="@android:drawable/arrow_down_float"-->
+<!--        android:title=""-->
+<!--        android:showAsAction="always">-->
+<!--        <menu>-->
+<!--            <item-->
+<!--                android:id="@+id/menu_myAccount"-->
+<!--                android:icon="@drawable/app_icon"-->
+<!--                android:orderInCategory="100"-->
+<!--                android:title="@string/my_account" />-->
+<!--            <item-->
+<!--                android:id="@+id/menu_logout"-->
+<!--                android:icon="@android:drawable/ic_menu_gallery"-->
+<!--                android:orderInCategory="100"-->
+<!--                android:title="@string/logout" />-->
+<!--        </menu>-->
+<!--    </item>-->
+
     <item
-        android:id="@+id/action_notification1"
-        android:icon="@android:drawable/arrow_down_float"
+        android:id="@+id/menu_logout"
+        android:icon="@drawable/ic_logout"
         android:title=""
-        android:showAsAction="always">
-        <menu>
-            <item
-                android:id="@+id/menu_myAccount"
-                android:icon="@drawable/app_icon"
-                android:orderInCategory="100"
-                android:title="@string/my_account" />
-            <item
-                android:id="@+id/menu_logout"
-                android:icon="@android:drawable/ic_menu_gallery"
-                android:orderInCategory="100"
-                android:title="@string/logout" />
-        </menu>
-    </item>
+        android:showAsAction="always" />
 
 </menu>
