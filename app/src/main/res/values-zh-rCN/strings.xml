@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oku_arrays">
+        <item>自闭症</item>
+        <item>脑瘫</item>
+        <item>发育障碍</item>
+        <item>唐氏综合症</item>
+    </string-array>
+
+    <string name="app_name">My Suara</string>
+    <string name="email">电邮</string>
+    <string name="has_account">已经有帐号了？ 登录</string>
+    <string name="label_about">关于</string>
+    <string name="label_modeling_level1">第一级</string>
+    <string name="label_modeling_level2">第二级</string>
+    <string name="label_modeling_level3">第三级</string>
+    <string name="login">登录</string>
+    <string name="logout">登出</string>
+    <string name="my_account">我的帐户</string>
+    <string name="name">名称</string>
+    <string name="no_account">还没有账号？ 注册</string>
+    <string name="password">密码</string>
+    <string name="sign_up">注册</string>
+    <string name="verify_password">验证密码</string>
+    <string name="about">关于</string>
+    <string name="level_1">第一级</string>
+    <string name="level_2">第二级</string>
+    <string name="level_3">第三级</string>
+    <string name="language_chinese">中语</string>
+    <string name="language_english">英语</string>
+    <string name="language_malay">马来语</string>
+    <string name="language_tamil">泰米尔语</string>
+    <string name="label_change_language">换语言</string>
+    <string name="label_change_level">换级别</string>
+    <string name="school">学校</string>
+    <string name="add_student">添加学生</string>
+    <string name="age">年龄</string>
+    <string name="label_welcome_teacher">"欢迎老师 "</string>
+    <string name="level1_body">身体</string>
+    <string name="level1_underwear">内裤</string>
+    <string name="level1_trouser">裤子</string>
+    <string name="level1_shoe">鞋子</string>
+    <string name="level1_head">头</string>
+    <string name="level1_bowl">碗</string>
+    <string name="level1_brother">弟兄</string>
+    <string name="level1_boy">男孩</string>
+    <string name="level1_cup">杯子</string>
+    <string name="level1_father">父亲</string>
+    <string name="level1_fork">叉子</string>
+    <string name="level1_girl">女孩</string>
+    <string name="level1_glass">杯子</string>
+    <string name="level1_grandfather">祖父</string>
+    <string name="level1_grandmother">祖母</string>
+    <string name="level1_legs">腿</string>
+    <string name="level1_mother">母亲</string>
+    <string name="level1_plate">盘子</string>
+    <string name="level1_singlet">背心</string>
+    <string name="level1_sister">姐妹</string>
+    <string name="level1_socks">袜子</string>
+    <string name="level1_spoon">汤匙</string>
+    <string name="level1_t_shirt">T恤衫</string>
+    <string name="level1_you">你</string>
+    <string name="label_iam_student">"我是学生：  "</string>
+    <string name="label_iam_teacher">"我是老师： "</string>
+    <string name="student">学生</string>
+    <string name="teacher">老师</string>
+    <string name="cancel">取消</string>
+    <string name="OK">確定</string>
+    <string name="prompt_data_fail_to_insert">出问题了。</string>
+    <string name="prompt_no_account">抱歉，找不到帐户。</string>
+    <string name="prompt_verify_password_same">您的密码和验证密码必须相同</string>
+    <string name="prompt_fill_all_data">您必须填写所有数据。</string>
+    <string name="prompt_data_inserted">数据已成功插入。</string>
+</resources>

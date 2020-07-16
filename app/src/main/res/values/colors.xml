@@ -1,0 +1,9 @@
+<resources>
+	<color	name="colorPrimary">#9C27B0</color>
+	<color	name="colorPrimaryDark">#731E81</color>
+	<color	name="colorAccent">#008DCD</color>
+	<color	name="colorControlHighlight">#008DCD</color>
+	<color	name="colorControlNormal">#57BEEE</color>
+	<color	name="colorTeacherBg">#A2FFA7</color>
+	<color	name="colorStudentBg">#B7E3FF</color>
+</resources>

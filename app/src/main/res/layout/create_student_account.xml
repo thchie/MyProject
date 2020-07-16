@@ -1,0 +1,271 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <TextView
+        android:id="@+id/welcome_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_welcome_teacher"
+        android:textSize="20dp" />
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/profile_student_img1"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:background="@drawable/profile_profile"></ImageView>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/camera_student_img1"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:background="@drawable/profile_camera"></ImageView>
+
+                    <ImageView
+                        android:id="@+id/photo_student_img1"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:background="@drawable/profile_photo"></ImageView>
+
+                </LinearLayout>
+
+                <EditText
+                    android:id="@+id/name_et1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/name"
+                    android:nextFocusForward="@+id/age_et1"
+                    android:textSize="20dp" />
+
+                <EditText
+                    android:id="@+id/age_et1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/age"
+                    android:inputType="number"
+                    android:nextFocusForward="@+id/school_et1"
+                    android:textSize="20dp" />
+
+                <Spinner
+                    android:id="@+id/okuNo_sp1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:entries="@array/oku_arrays"
+                    android:prompt="@string/oku_prompt" />
+
+                <EditText
+                    android:id="@+id/school_et1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/school"
+                    android:nextFocusForward="@+id/add_student_btn1"
+                    android:textSize="20dp" />
+
+                <Button
+                    android:id="@+id/add_student_btn1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:nextFocusForward="@+id/login_btn1"
+                    android:text="@string/add_student" />
+
+                <Button
+                    android:id="@+id/login_btn1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:nextFocusForward="@+id/okuNo_et2"
+                    android:text="@string/login"
+                    android:visibility="gone" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/profile_student_img2"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:background="@drawable/profile_profile"></ImageView>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/camera_student_img2"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:background="@drawable/profile_camera"></ImageView>
+
+                    <ImageView
+                        android:id="@+id/photo_student_img2"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:background="@drawable/profile_photo"></ImageView>
+
+                </LinearLayout>
+
+                <EditText
+                    android:id="@+id/name_et2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/name"
+                    android:nextFocusForward="@+id/age_et2"
+                    android:textSize="20dp" />
+
+                <EditText
+                    android:id="@+id/age_et2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/age"
+                    android:inputType="number"
+                    android:nextFocusForward="@+id/school_et2"
+                    android:textSize="20dp" />
+
+                <Spinner
+                    android:id="@+id/okuNo_sp2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:entries="@array/oku_arrays"
+                    android:prompt="@string/oku_prompt" />
+
+                <EditText
+                    android:id="@+id/school_et2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/school"
+                    android:nextFocusForward="@+id/add_student_btn2"
+                    android:textSize="20dp" />
+
+                <Button
+                    android:id="@+id/add_student_btn2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:nextFocusForward="@+id/login_btn2"
+                    android:text="@string/add_student" />
+
+                <Button
+                    android:id="@+id/login_btn2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:nextFocusForward="@+id/okuNo_et3"
+                    android:text="@string/login"
+                    android:visibility="gone" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/profile_student_img3"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:background="@drawable/profile_profile"></ImageView>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/camera_student_img3"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:background="@drawable/profile_camera"></ImageView>
+
+                    <ImageView
+                        android:id="@+id/photo_student_img3"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:background="@drawable/profile_photo"></ImageView>
+                </LinearLayout>
+
+                <EditText
+                    android:id="@+id/name_et3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/name"
+                    android:nextFocusForward="@+id/age_et3"
+                    android:textSize="20dp" />
+
+                <EditText
+                    android:id="@+id/age_et3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/age"
+                    android:inputType="number"
+                    android:nextFocusForward="@+id/school_et3"
+                    android:textSize="20dp" />
+
+                <Spinner
+                    android:id="@+id/okuNo_sp3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:entries="@array/oku_arrays"
+                    android:prompt="@string/oku_prompt" />
+
+                <EditText
+                    android:id="@+id/school_et3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/school"
+                    android:nextFocusForward="@+id/add_student_btn3"
+                    android:textSize="20dp" />
+
+                <Button
+                    android:id="@+id/add_student_btn3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:nextFocusForward="@+id/login_btn3"
+                    android:text="@string/add_student" />
+
+                <Button
+                    android:id="@+id/login_btn3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/login"
+                    android:visibility="gone" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

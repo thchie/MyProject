@@ -1,0 +1,99 @@
+<resources>
+	<string	name="app_name"	translatable="false">My Suara</string>
+
+	<string	name="oku_prompt" translatable="false">OKU</string>
+
+	<string-array name="oku_arrays">
+		<item>Autism</item>
+		<item>Cerebral Palsy</item>
+		<item>Developmental Disabilities</item>
+		<item>Down Syndrome</item>
+	</string-array>
+
+
+	<!--label-->
+	<string	name="label_welcome_teacher">"Welcome Teacher "</string>
+	<string	name="label_iam_teacher">I am teacher: </string>
+	<string	name="label_iam_student">I am student: </string>
+	<string	name="label_modeling_level1">Level 1</string>
+	<string	name="label_modeling_level2">Level 2</string>
+	<string	name="label_modeling_level3">Level 3</string>
+	<string	name="label_change_language">Change Language</string>
+	<string	name="label_change_level">Change Level</string>
+	<string	name="label_about">About</string>
+
+
+	<!--menus-->
+	<string	name="my_account">My Account</string>
+	<string	name="logout">Logout</string>
+
+
+	<!--button-->
+	<string	name="login">Login</string>
+	<string	name="sign_up">Sign Up</string>
+	<string	name="add_student">Add Student</string>
+
+
+	<!--textfield hint-->
+	<string	name="name">Name</string>
+	<string	name="email">Email</string>
+	<string	name="password">Password</string>
+	<string	name="verify_password">Verify Password</string>
+	<string	name="age">Age</string>
+	<string	name="school">School</string>
+
+
+	<string	name="no_account">Do not have an account? Sign Up</string>
+	<string	name="has_account">Already have an account? Login</string>
+    <string name="language_english">English</string>
+	<string name="language_malay">Malay</string>
+	<string name="language_chinese">Chinese</string>
+	<string name="language_tamil">Tamil</string>
+	<string name="level_1">Level 1</string>
+	<string name="level_2">Level 2</string>
+	<string name="level_3">Level 3</string>
+	<string name="student">Student</string>
+	<string name="teacher">Teacher</string>
+	<string name="cancel">Cancel</string>
+	<string name="OK">OK</string>
+
+
+
+
+    <!--level 1-->
+    <string name="level1_body">Body</string>
+    <string name="level1_bowl">Bowl</string>
+    <string name="level1_boy">Boy</string>
+    <string name="level1_brother">Brother</string>
+    <string name="level1_cup">Cup</string>
+    <string name="level1_father">Father</string>
+    <string name="level1_fork">Fork</string>
+    <string name="level1_girl">Girl</string>
+    <string name="level1_glass">Glass</string>
+    <string name="level1_grandfather">Grandfather</string>
+    <string name="level1_grandmother">Grandmother</string>
+    <string name="level1_head">Head</string>
+    <string name="level1_legs">Legs</string>
+    <string name="level1_mother">Mother</string>
+    <string name="level1_plate">Plate</string>
+    <string name="level1_shoe">Shoes</string>
+    <string name="level1_singlet">Singlet</string>
+    <string name="level1_sister">Sister</string>
+    <string name="level1_socks">Socks</string>
+    <string name="level1_spoon">Spoon</string>
+    <string name="level1_t_shirt">T-Shirt</string>
+    <string name="level1_trouser">Trouser</string>
+    <string name="level1_underwear">Underwear</string>
+    <string name="level1_you">You</string>
+	<string name="about">About</string>
+
+
+	<!--Toast-->
+	<string name="prompt_no_account">Sorry, account cannot be found.</string>
+	<string name="prompt_data_inserted">Data successfully inserted.</string>
+	<string name="prompt_data_fail_to_insert">Something went wrong.</string>
+	<string name="prompt_fill_all_data">You must fill in all the data.</string>
+	<string name="prompt_verify_password_same">Your password and verify password must be the same.</string>
+
+
+</resources>

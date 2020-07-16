@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.my.newproject2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="27" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/app_icon"
+        android:label="My Suara"
+        android:largeHeap="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.my.newproject2.SplashActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Holo.NoActionBar.Fullscreen" >
+            <intent-filter>
+=
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.my.newproject2.LoginActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.newproject2.SignUpActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.my.newproject2.MainActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.my.newproject2.CreateStudentAccountActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.my.newproject2.TrainerTahap_1Activity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/label_modeling_level1"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.my.newproject2.TrainerTahap_2Activity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/label_modeling_level2"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.my.newproject2.TrainerTahap_3Activity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/label_modeling_level3"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.my.newproject2.AboutActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/label_about"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.my.newproject2.ProfileActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/label_about"
+            android:screenOrientation="landscape" />
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.my.newproject2.provider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+    </application>
+
+</manifest>

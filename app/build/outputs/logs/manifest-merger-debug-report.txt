@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:1:1-76:12
+INJECTED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:1:1-76:12
+INJECTED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:1:1-76:12
+INJECTED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:1:1-76:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\TSL\.gradle\caches\transforms-2\files-2.1\685f2e22fc3e995fd2be407b6f9075ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\TSL\.gradle\caches\transforms-2\files-2.1\e8d259c876b05d8c25222a4c2bce83f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\TSL\.gradle\caches\transforms-2\files-2.1\b9ac8d36b798f751dc996a95f1ef1203\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\TSL\.gradle\caches\transforms-2\files-2.1\53ef8e391fa301f40461a23d4fcfe84f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\TSL\.gradle\caches\transforms-2\files-2.1\d4399910152d5f55d3bd88e4a4804881\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:1:1-76:12
+INJECTED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:1:1-76:12
+INJECTED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:1:1-76:12
+	package
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:2:5-33
+		INJECTED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:1:1-76:12
+		INJECTED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:1:1-76:12
+		INJECTED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:4:5-80
+	android:name
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:4:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:5:22-78
+application
+ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:7:5-75:19
+	android:label
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:10:9-33
+	android:largeHeap
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:11:9-33
+	android:icon
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:9:9-42
+	android:allowBackup
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.my.newproject2.SplashActivity
+ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:13:9-22:20
+	android:screenOrientation
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:17:13-50
+	android:configChanges
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:15:13-59
+	android:theme
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:16:13-77
+	android:name
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:14:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.my.newproject2.LoginActivity
+ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:23:9-27:57
+	android:screenOrientation
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:26:13-50
+	android:windowSoftInputMode
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:27:13-54
+	android:configChanges
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:25:13-59
+	android:name
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:24:13-42
+activity#com.my.newproject2.SignUpActivity
+ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:28:9-31:53
+	android:screenOrientation
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:31:13-50
+	android:configChanges
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:30:13-59
+	android:name
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:29:13-43
+activity#com.my.newproject2.MainActivity
+ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:32:9-35:53
+	android:screenOrientation
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:35:13-50
+	android:configChanges
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:34:13-59
+	android:name
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:33:13-41
+activity#com.my.newproject2.CreateStudentAccountActivity
+ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:36:9-40:57
+	android:screenOrientation
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:39:13-50
+	android:windowSoftInputMode
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:40:13-54
+	android:configChanges
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:38:13-59
+	android:name
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:37:13-57
+activity#com.my.newproject2.TrainerTahap_1Activity
+ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:41:9-45:53
+	android:screenOrientation
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:45:13-50
+	android:label
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:44:13-58
+	android:configChanges
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:43:13-59
+	android:name
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:42:13-51
+activity#com.my.newproject2.TrainerTahap_2Activity
+ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:46:9-50:53
+	android:screenOrientation
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:50:13-50
+	android:label
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:49:13-58
+	android:configChanges
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:48:13-59
+	android:name
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:47:13-51
+activity#com.my.newproject2.TrainerTahap_3Activity
+ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:51:9-55:53
+	android:screenOrientation
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:55:13-50
+	android:label
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:54:13-58
+	android:configChanges
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:53:13-59
+	android:name
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:52:13-51
+activity#com.my.newproject2.AboutActivity
+ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:56:9-60:53
+	android:screenOrientation
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:60:13-50
+	android:label
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:59:13-48
+	android:configChanges
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:58:13-59
+	android:name
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:57:13-42
+activity#com.my.newproject2.ProfileActivity
+ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:61:9-65:53
+	android:screenOrientation
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:65:13-50
+	android:label
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:64:13-48
+	android:configChanges
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:63:13-59
+	android:name
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:62:13-44
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:66:9-74:20
+	android:grantUriPermissions
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:70:13-47
+	android:authorities
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:68:13-62
+	android:exported
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:69:13-37
+	android:name
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:67:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:71:13-73:58
+	android:resource
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:73:17-55
+	android:name
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml:72:17-67
+uses-sdk
+INJECTED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\TSL\.gradle\caches\transforms-2\files-2.1\685f2e22fc3e995fd2be407b6f9075ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\TSL\.gradle\caches\transforms-2\files-2.1\685f2e22fc3e995fd2be407b6f9075ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\TSL\.gradle\caches\transforms-2\files-2.1\e8d259c876b05d8c25222a4c2bce83f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\TSL\.gradle\caches\transforms-2\files-2.1\e8d259c876b05d8c25222a4c2bce83f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\TSL\.gradle\caches\transforms-2\files-2.1\b9ac8d36b798f751dc996a95f1ef1203\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\TSL\.gradle\caches\transforms-2\files-2.1\b9ac8d36b798f751dc996a95f1ef1203\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\TSL\.gradle\caches\transforms-2\files-2.1\53ef8e391fa301f40461a23d4fcfe84f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\TSL\.gradle\caches\transforms-2\files-2.1\53ef8e391fa301f40461a23d4fcfe84f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\TSL\.gradle\caches\transforms-2\files-2.1\d4399910152d5f55d3bd88e4a4804881\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\TSL\.gradle\caches\transforms-2\files-2.1\d4399910152d5f55d3bd88e4a4804881\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TSL\Desktop\NewProject2\app\src\main\AndroidManifest.xml

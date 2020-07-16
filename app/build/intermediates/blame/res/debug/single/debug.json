@@ -1,0 +1,974 @@
+[
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_plate.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_plate.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_socks.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_socks.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_sister.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_sister.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_trouser.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_trouser.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_trainer_play.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\trainer_play.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_mother.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_mother.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_trainer_clear.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\trainer_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_profile_camera.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\profile_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_trainer_play.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\trainer_play.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout_trainer_tahap_1.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\layout\\trainer_tahap_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_shoe.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_shoe.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_father.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_father.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout_create_student_account.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\layout\\create_student_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_head.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_head.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pic_kala.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\pic_kala.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_legs.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_legs.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_aactc.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\aactc.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_you.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_you.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_spoon.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_spoon.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_glass.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_glass.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_trouser.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_trouser.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_t_shirt.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_t_shirt.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_profile_camera.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\profile_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_grandmother.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_grandmother.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_mother.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_mother.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_you.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_you.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_icon_foreground.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout_sign_up.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\layout\\sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_profile_camera.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\profile_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_shoe.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_shoe.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_underwear.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_underwear.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_grandfather.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_grandfather.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_trainer_play.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\trainer_play.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_grandfather.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_grandfather.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_bowl.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_bowl.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_boy.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_boy.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_profile_profile.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\profile_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_logout.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_profile_photo.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\profile_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_icon_foreground.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-xhdpi\\app_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_socks.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_socks.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_sister.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_sister.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_boy.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_boy.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_spoon.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_spoon.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_mother.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_mother.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout_change_language.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\layout\\change_language.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_legs.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_legs.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_fork.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_fork.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_fork.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_fork.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pic_peter.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\pic_peter.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pic_kala.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\pic_kala.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_profile_profile.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\profile_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_profile_profile.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\profile_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pic_kala2.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\pic_kala2.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_shoe.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_shoe.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_grandfather.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_grandfather.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_singlet.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_singlet.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_cup.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_cup.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_brother.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_brother.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_glass.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_glass.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_plate.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_plate.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_trainer_clear.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\trainer_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_socks.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_socks.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_trainer_clear.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\trainer_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pic_kala2.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\pic_kala2.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout_profile.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\layout\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_father.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_father.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_trouser.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_trouser.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_trainer_clear.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\trainer_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pic_kala2.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\pic_kala2.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_socks.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_socks.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon_foreground.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-mdpi\\app_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_underwear.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_underwear.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_logout.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_brother.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_brother.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_profile_photo.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\profile_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_mother.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_mother.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_underwear.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_underwear.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_singlet.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_singlet.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_father.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_father.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pic_peter.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\pic_peter.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_sister.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_sister.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_profile_photo.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\profile_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_legs.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_legs.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_grandmother.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_grandmother.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_underwear.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_underwear.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_you.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_you.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pic_peter.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\pic_peter.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_girl.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_girl.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_bowl.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_bowl.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_body.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_body.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-mdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_profile_photo.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\profile_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_profile_photo.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\profile_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_body.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_body.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_trainer_clear.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\trainer_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_profile_profile.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\profile_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_brother.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_brother.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_spoon.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_spoon.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_trainer_play.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\trainer_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_icon_foreground.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-xxhdpi\\app_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_girl.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_girl.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pic_kala.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\pic_kala.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_legs.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_legs.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_pic_peter.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxxhdpi\\pic_peter.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_trainer_play.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\trainer_play.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout_change_level.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\layout\\change_level.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_grandmother.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_grandmother.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_cup.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_cup.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-xhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_sister.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_sister.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_profile_photo.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\profile_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_singlet.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_singlet.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_icon.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_singlet.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_singlet.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_body.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_body.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_profile_camera.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\profile_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_icon_foreground.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-hdpi\\app_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_head.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_head.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_profile_camera.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\profile_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_glass.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_glass.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_t_shirt.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_t_shirt.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pic_kala.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\pic_kala.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_fork.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_fork.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_trainer_clear.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\trainer_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_t_shirt.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_t_shirt.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_pic_kala.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxxhdpi\\pic_kala.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_trouser.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_trouser.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-hdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_girl.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_girl.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_glass.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_glass.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\menu_level_menu.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\menu\\level_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_profile_photo.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\profile_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_head.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_head.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_trainer_clear.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\trainer_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_trainer_play.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\trainer_play.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_pic_kala2.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxxhdpi\\pic_kala2.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_profile_camera.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\profile_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pic_peter.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\pic_peter.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_plate.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_plate.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_profile_profile.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\profile_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_profile_camera.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\profile_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_body.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_body.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_profile_profile.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\profile_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_app_icon.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_you.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_you.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_t_shirt.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_t_shirt.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_boy.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_boy.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_shoe.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_shoe.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_spoon.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_spoon.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_cup.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_cup.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_bowl.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_bowl.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_father.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_father.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_plate.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_plate.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_brother.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_brother.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout_about.xml.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-xxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_girl.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_girl.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_bowl.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_bowl.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_level1_cup.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-hdpi\\level1_cup.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_profile_profile.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\profile_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_boy.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_boy.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_fork.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_fork.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_level1_grandfather.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xxhdpi\\level1_grandfather.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_trainer_play.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\trainer_play.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pic_kala2.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\pic_kala2.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_level1_grandmother.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-mdpi\\level1_grandmother.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_level1_head.png.flat",
+        "source": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\src\\main\\res\\drawable-xhdpi\\level1_head.png"
+    },
+    {
+        "merged": "C:\\Users\\TSL\\Desktop\\NewProject2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\TSL\\.gradle\\caches\\transforms-2\\files-2.1\\53ef8e391fa301f40461a23d4fcfe84f\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    }
+]
